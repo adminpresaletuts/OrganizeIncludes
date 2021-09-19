@@ -1,0 +1,2 @@
+# OrganizeIncludes
+# 36 OrganizeIncludes #command.36.*.au3="$(autoit3dir)\beta\autoit3.exe" "$(SciteDefaultHome)\OrganizeIncludes\OI_1.0.0.50.au3" "$(FilePath)" command.36.*.au3="$(SciteDefaultHome)\..\autoit3.exe" "$(SciteDefaultHome)\OrganizeIncludes\OI_1.0.0.50.au3" "$(FilePath)" command.name.36.*.au3=OrganizeIncludes command.save.before.36.*.au3=1 command.is.filter.36.*.au3=1 command.shortcut.36.*.au3=Ctrl+Shift+Alt+I
